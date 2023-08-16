@@ -1,0 +1,31 @@
+# Node.js / Express
+node_modules/
+npm-debug.log
+*.env
+
+# Editor / IDE
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Dependencies
+package-lock.json
+yarn.lock
+
+# Logs
+logs
+*.log
+
+# Output
+dist/
+build/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Testing
+coverage/
